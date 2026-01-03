@@ -1,2 +1,2 @@
 # MidTermUi
-MidTerm Qt profect
+MidTerm Qt project
